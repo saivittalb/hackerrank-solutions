@@ -5,7 +5,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/saivittalb.svg?style=social)](https://twitter.com/saivittalb) 
 
 <p align="center">
-    <a href="https://www.hackerrank.com/saivittalb">
+    <a href="https://www.hackerrank.com/saivittalb" target="_blank">
         <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
     </a>
 </p>
@@ -14,11 +14,13 @@ My efficient solutions to Hackerrank practice problems which I've completed so f
 
 Languages used:
 
-- Python 3
+- Java 7, 8
 - C
-- Java 8
-- Java 7
 - C++
+- Python 3
+
+It'd be great if everyone starts contributing to this repository. It'd be helpful to a lot of people. 
+If you wish to contribute, open a PR maintaining the folder schema.
 
 ## License
 This project is licensed under the MIT License, a short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
